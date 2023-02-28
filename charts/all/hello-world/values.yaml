@@ -2,3 +2,5 @@
 global:
   hubClusterDomain: hub.example.com
   localCluster: local.example.com
+
+replicas: 3  
